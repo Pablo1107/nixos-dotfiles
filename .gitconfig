@@ -1,0 +1,2 @@
+[alias]
+	subpull = submodule update --remote --merge
